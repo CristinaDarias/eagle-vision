@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/eagle-vision/ev-menu/Evmenu.css"],"names":[],"mappings":"AAAA,QACI,sBACJ","file":"main.8df1968d.chunk.css","sourcesContent":[".EVMenu{\r\n    background-color: green;\r\n}"]}
