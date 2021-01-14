@@ -1,0 +1,3 @@
+//! Hay que cambiar el orden de 'relationship' a 'priority', modificar los formularios. Revisar las ordenaciones.
+
+//! Hay que cambiar sessionStorage por SESSIONSTORAGE
